@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:20:{s:9:"metatitle";s:18:"江西专硕在线";s:7:"metades";s:18:"江西专硕在线";s:7:"metakey";s:18:"江西专硕在线";s:11:"companyname";s:36:"江西博方教育咨询有限公司";s:7:"address";s:98:"江西省南昌市东湖区北京西路437号 江西师范大学（老师大）物理楼115-122室";s:5:"email";s:0:"";s:6:"wxqpic";s:26:"20190911/5d7865eec0d3a.jpg";s:3:"tel";s:11:"18907087200";s:6:"mobile";s:11:"18907087200";s:7:"icpnote";s:22:"赣ICP备88888888号-1";s:6:"c_site";i:0;s:6:"c_text";s:24:"网站项目维护中...";s:8:"sys_code";s:0:"";s:8:"shieldip";s:0:"";s:6:"iptips";s:32:"您的IP将禁用一段时间。";s:8:"isonline";i:1;s:2:"qq";s:0:"";s:4:"isqq";i:1;s:8:"weibourl";s:0:"";s:9:"weixinpic";s:26:"20190911/5d7865e75f3df.jpg";}
